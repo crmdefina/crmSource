@@ -23,7 +23,7 @@
 * [Составление документов и договоров](https://crmdefina.github.io/invoice.html)
 * Графики результатов, отчёты, архивы.
 
-Наш сайт: [Ink.Defina](https://defina.ru)
+Официальный сайт компании: [defina.ru](https://defina.ru)
 
 > `ПРИМЕЧАНИЕ`
 > 
