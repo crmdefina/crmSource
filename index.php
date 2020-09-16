@@ -1,12 +1,11 @@
 <?php
 /*
 * Develoment By Ink.Defina in 11 semtember 2017
-* email^ info@defina.ru
-*
-* url^ https://defina.ru
+* email: info@defina.ru
+* url: https://defina.ru
 */
 
-  nemespace \crm\models\Defina
+namespace \crm\models\Defina
   
 class Defina extends Controller
 {
