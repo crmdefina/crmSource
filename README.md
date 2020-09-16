@@ -1,6 +1,11 @@
-# CRM Defina [![development](https://secure.travis-ci.org/yiisoft/yii.png)](https://defina.ru)
--------------------------
 ![screenshot of sample](/img/logo_crm.png)
+# CRM Defina 
+-------------------------
+
+![screenshot of sample](/img/laptop.png)
+
+
+[![development](https://secure.travis-ci.org/yiisoft/yii.png)](https://crm-defina.com)
 ###
 **Система управления взаимоотношениями с клиентами**
 (CRM, CRM-система, сокращение от англ. ***Customer Relationship Management***) — прикладное программное обеспечение для организаций, предназначенное для автоматизации стратегий взаимодействия с заказчиками (клиентами), в частности для повышения уровня продаж.
